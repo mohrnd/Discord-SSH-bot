@@ -21,7 +21,7 @@ This Discord bot enables users to interact with SSH sessions and perform various
    ```
 3. **Run the Bot**: Execute the bot script:
    ```
-   python bot.py
+   python main.py
    ```
 
 ## Commands
